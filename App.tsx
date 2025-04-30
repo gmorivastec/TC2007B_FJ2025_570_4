@@ -1,3 +1,9 @@
+// PARA INSTALAR:
+// npm install react-test-renderer@18.2.0 --save-dev
+// npm install @testing-library/react-native@12.2.0 --save-dev
+// npx expo install jest-expo jest @types/jest --dev
+// para correr: npm run test
+
 // link de documentación de expo
 // https://docs.expo.dev/develop/unit-testing/
 // VAMOS A ESTAR USANDO JEST
